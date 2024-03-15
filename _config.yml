@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Greetings! This is Pengxin Zeng"
-description              : "The homepage of Pengxin"
+description              : "Research intern in SenseTime, Intelligent Automative Group."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "PengxinZeng(曾鹏鑫)"
+  name             : "PengxinZeng\n(曾鹏鑫)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Sichuan Univesity"
-  location         : "Chengdu, China"
+  bio              : "[Sichuan Univesity](https://en.scu.edu.cn/)"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=daN9sHoAAAAJ"
