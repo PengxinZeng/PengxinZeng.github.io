@@ -24,12 +24,12 @@ My research interests include 3D Vision and Multi-modality Learning for Autonomo
 
 # 🔥 News
 - *2024.03*: &nbsp;🔥 Our 3D object detector SparseLIF ranks **1st** on the nuScenes leaderboard! 
-- *2023.11*: &nbsp;🔥 Our paper *Semantic Invariant Multi-view Clustering with Fully Incomplete Information* is accepted by TPAMI’ 2023.  
+- *2023.11*: &nbsp;🔥 Our paper [Semantic Invariant Multi-view Clustering with Fully Incomplete Information](https://ieeexplore.ieee.org/document/10319403/media#media) is accepted by TPAMI’ 2023.  
 - *2023.10*: &nbsp;🎉 I am awarded the National Scholarship of China (Top 1%). 
 - *2023.10*: &nbsp;🎉 I am awarded the Outstanding Graduate of Sichuan Province (Top 4%). 
 <!-- - *2023.10*: &nbsp;🎉 I join SenseTime, Intelligent Automative Group as a research intern in Beijing. -->
 - *2023.09*: &nbsp;🎉 I am awarded the Top-grade Scholarship for Graduate Students. 
-- *2023.02*: &nbsp;🔥 Our paper *Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric* is accepted by CVPR’ 2023. 
+- *2023.02*: &nbsp;🔥 Our paper [Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric](https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_Deep_Fair_Clustering_via_Maximizing_and_Minimizing_Mutual_Information_Theory_CVPR_2023_paper.pdf) is accepted by CVPR’ 2023. 
 
 
 # 📝 Publications 
@@ -56,7 +56,8 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Ranking **1st** on the nuScenes leaderboard in the 3D object detection task.
 </div>
-<div class='paper-box-image'><div> <mp4 src='Visual.mp4' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-image'><div> <img src='Visual.mp4' alt="sym" width="100%"></div></div>
 </div> 
 
 - [TPAMI’ 2023] Semantic Invariant Multi-view Clustering with Fully Incomplete Information. **Pengxin Zeng**, Mouxing Yang, Yiding Lu, Changqing Zhang, Peng Hu, and Xi Peng
