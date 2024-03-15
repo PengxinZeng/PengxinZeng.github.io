@@ -47,6 +47,7 @@ My research interests include 3D Vision and Multi-modality Learning for Autonomo
 </div> -->
 
 <div class='paper-box'>
+
 <div class='paper-box-text' markdown="1">
 
 [SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection](https://arxiv.org/pdf/2403.07284)
@@ -57,7 +58,14 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 - Ranking **1st** on the nuScenes leaderboard in the 3D object detection task.
 </div>
 
-<div class='paper-box-image'><div> <img src='Visual.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div>
+<video width="320" height="240" controls>
+  <source src="images/Visual.mp4" type="video/mp4">
+  <source src="images/Visual.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<!-- <div class='paper-box-image'><div> <img src='Visual.mp4' alt="sym" width="100%"></div></div> -->
 </div> 
 
 - [TPAMI’ 2023] Semantic Invariant Multi-view Clustering with Fully Incomplete Information. **Pengxin Zeng**, Mouxing Yang, Yiding Lu, Changqing Zhang, Peng Hu, and Xi Peng
