@@ -54,8 +54,6 @@ My research interests include 3D Vision and Multi-modality Learning for Autonomo
 
 Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</sup>**, Xiao Song, and Zhe Wang
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- 1920 540 -->
 - Ranking **1st** on the nuScenes leaderboard in the 3D object detection task.
 - Rubost aginst Camera Occlusion, LiDAR Failuer, and Unsynchronization.
 </div>
@@ -76,17 +74,35 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 
 - [CVPR’ 2023] Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric. **Pengxin Zeng<sup>†</sup>**, Yunfan Li<sup>†</sup>, Peng Hu, Dezhong Peng, Jiancheng Lv, and Xi Peng
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+†: Equal Contribution
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Experiences & Educations 
+- *2023.10 - now* Research Intern, Sense Time, Intelligent Automative Group.
+-- Director: [Zhe Wang](https://wang-zhe.me/)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - now* Master, Sichuan University, China.
+-- Mentor: Prof. [Xi Peng](https://pengxi.me)
+-- National Scholarship of China (Top 1%). 
+-- Outstanding Graduate of Sichuan Province (Top 4%). 
+-- Top-grade Scholarships through all years. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2017.09 - 2021.06* Bachelar, Sichuan University, China.
+-- Outstanding Graduate Nomination
+-- Member of Innovation Class
+
+
+<!-- # 🎖 Honors and Awards -->
+<!-- - *2023.10*: National Scholarship of China (Top 1%). 
+- *2023.10*: Outstanding Graduate of Sichuan Province (Top 4%). 
+- *2023.09*: Top-grade Scholarship for Graduate Students, 2023. 
+- *2021.09*: Top-grade Scholarship for Graduate Students, 2021 & 2022.  -->
+<!-- - *2021.06*: Outstanding Graduate Nomination, Bachelar.  -->
+
+
+
+# 💬 Academic Service
+- *2023* Program committee (PC) member for Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023 
+
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
