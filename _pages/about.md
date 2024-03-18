@@ -77,18 +77,18 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 †: Equal Contribution
 
 # 📖 Experiences & Educations 
-- *2023.10 - now* Research Intern, Sense Time, Intelligent Automative Group.
--- Director: [Zhe Wang](https://wang-zhe.me/)
+- *2023.10 - now*, Research Intern, Sense Time, Intelligent Automative Group.
+  - Director: [Zhe Wang](https://wang-zhe.me/)
 
-- *2021.09 - now* Master, Sichuan University, China.
--- Mentor: Prof. [Xi Peng](https://pengxi.me)
--- National Scholarship of China (Top 1%). 
--- Outstanding Graduate of Sichuan Province (Top 4%). 
--- Top-grade Scholarships through all years. 
+- *2021.09 - now*, Master, Sichuan University, China.
+  - Mentor: Prof. [Xi Peng](https://pengxi.me)
+  - National Scholarship of China (Top 1%). 
+  - Outstanding Graduate of Sichuan Province (Top 4%). 
+  - Top-grade Scholarships throughout all years. 
 
-- *2017.09 - 2021.06* Bachelar, Sichuan University, China.
--- Outstanding Graduate Nomination
--- Member of Innovation Class
+- *2017.09 - 2021.06*, Bachelar, Sichuan University, China.
+  - Outstanding Graduate Nomination
+  - Member of Innovation Class
 
 
 <!-- # 🎖 Honors and Awards -->
@@ -101,7 +101,7 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 
 
 # 💬 Academic Service
-- *2023* Program committee (PC) member for Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023 
+- *2023*, Program committee (PC) member for Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023 
 
 
 <!-- # 💻 Internships
