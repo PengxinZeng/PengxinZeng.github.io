@@ -57,11 +57,11 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- 1920 540 -->
 - Ranking **1st** on the nuScenes leaderboard in the 3D object detection task.
-- Ranking **1st** on the nuScenes leaderboard in the 3D object detection task.
+- Rubost aginst Camera Occlusion, LiDAR Failuer, and Unsynchronization.
 </div>
 
 <div class='paper-box-image'><div>
-<video width="320" height="90" controls> 
+<video width="416" height="117" controls> 
   <source src="images/Visual.mp4" type="video/mp4">
   <source src="images/Visual.mp4" type="video/ogg">
   Your browser does not support the video tag.
