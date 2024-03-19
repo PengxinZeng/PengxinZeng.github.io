@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final-year master’s student in the Colledge of Computer Science at [Sichuan University](https://www.scu.edu.cn), supervised by Prof. [Xi Peng](https://pengxi.me). I am also a research intern at SenseTime, Intelligent Automative Group. Before that, I received my bachelor’s degree in Software Engineering from Sichuan University in 2021.
 
-My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During the wonderful journey in SenseTime, I developed a high-performance fully-sparse 3D object detector, SparseLIF, which ranks **1st** on the nuScenes leaderboard, outperforming all state-of-the-art 3D detectors by a notable margin. Many thanks to Director [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates! 
+My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During the wonderful journey in SenseTime, I developed a high-performance fully-sparse 3D object detector, SparseLIF, which ranks **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any), outperforming all state-of-the-art 3D detectors by a notable margin. Many thanks to Director [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates! 
 
 
 # 🔥 News
@@ -54,7 +54,7 @@ My research interests include 3D Vision and Multi-modality Learning for Autonomo
 
 Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</sup>**, Xiao Song, and Zhe Wang
 
-- Ranking **1st** on the nuScenes leaderboard in the 3D object detection task.
+- Ranking **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any) in the 3D object detection.
 - Rubost aginst Camera Occlusion, LiDAR Failuer, and Unsynchronization.
 </div>
 
@@ -68,11 +68,11 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 <!-- <div class='paper-box-image'><div> <img src='Visual.mp4' alt="sym" width="100%"></div></div> -->
 </div> 
 
-- [TPAMI’ 2023] Semantic Invariant Multi-view Clustering with Fully Incomplete Information. **Pengxin Zeng**, Mouxing Yang, Yiding Lu, Changqing Zhang, Peng Hu, and Xi Peng
+- [TPAMI’ 2023] [Semantic Invariant Multi-view Clustering with Fully Incomplete Information](https://ieeexplore.ieee.org/document/10319403/media#media). **Pengxin Zeng**, Mouxing Yang, Yiding Lu, Changqing Zhang, Peng Hu, and Xi Peng
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 <!-- † -->
 
-- [CVPR’ 2023] Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric. **Pengxin Zeng<sup>†</sup>**, Yunfan Li<sup>†</sup>, Peng Hu, Dezhong Peng, Jiancheng Lv, and Xi Peng
+- [CVPR’ 2023] [Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric](https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_Deep_Fair_Clustering_via_Maximizing_and_Minimizing_Mutual_Information_Theory_CVPR_2023_paper.pdf). **Pengxin Zeng<sup>†</sup>**, Yunfan Li<sup>†</sup>, Peng Hu, Dezhong Peng, Jiancheng Lv, and Xi Peng
 
 †: Equal Contribution
 
