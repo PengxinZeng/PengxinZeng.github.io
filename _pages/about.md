@@ -101,8 +101,8 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 
 
 # 💬 Academic Service
-- *2023*, Program committee (PC) member for Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023 
-
+- *2023*, Program committee (PC) member for Australasian Joint Conference on Artificial Intelligence (AJCAI) 
+- *2021*, Asian Conference on Machine Learning
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
