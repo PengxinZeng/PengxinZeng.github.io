@@ -59,7 +59,7 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 </div>
 
 <div class='paper-box-image'><div>
-<video width="416" height="117" controls> 
+<video width="384" height="108" controls> 
   <source src="images/Visual.mp4" type="video/mp4">
   <source src="images/Visual.mp4" type="video/ogg">
   Your browser does not support the video tag.
