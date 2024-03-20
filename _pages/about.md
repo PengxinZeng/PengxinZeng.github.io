@@ -102,6 +102,7 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 
 
 # 💬 Academic Service
+- *2024*, Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 
 - *2023*, Program committee member for Australasian Joint Conference on Artificial Intelligence (AJCAI) 
 - *2021*, Reviewer for Asian Conference on Machine Learning (ACML)
 
