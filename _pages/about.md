@@ -16,10 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<!-- [Xi Peng](https://pengxi.me) -->
 
-I am a final-year master’s student in the Colledge of Computer Science at [Sichuan University](https://www.scu.edu.cn), supervised by Prof. [Xi Peng](https://pengxi.me). I am also a research intern at SenseTime, Intelligent Automative Group. Before that, I received my bachelor’s degree in Software Engineering from Sichuan University in 2021.
+I am a final-year master’s student in the Colledge of Computer Science at [Sichuan University](https://www.scu.edu.cn), supervised by Prof. Xi Peng. I am also a research intern at SenseTime, Intelligent Automative Group. Before that, I received my bachelor’s degree in Software Engineering from Sichuan University in 2021.
 
-My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During the wonderful journey in SenseTime, I developed a high-performance fully-sparse 3D object detector, [SparseLIF](https://arxiv.org/pdf/2403.07284), which ranks **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any), outperforming all state-of-the-art 3D detectors by a notable margin. Many thanks to Director [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates! 
+My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During the wonderful journey in SenseTime, I developed a high-performance fully-sparse 3D object detector, [SparseLIF](https://arxiv.org/pdf/2403.07284), which ranks **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any), outperforming all state-of-the-art 3D detectors by a notable margin. Thanks to Director [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates! 
 
 
 # 🔥 News
@@ -82,10 +83,10 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
   - Director: [Zhe Wang](https://wang-zhe.me/)
 
 - *2021.09 - now*, Master, Sichuan University, China.
-  - Mentor: Prof. [Xi Peng](https://pengxi.me)
-  - National Scholarship of China (Top 1%). 
-  - Outstanding Graduate of Sichuan Province (Top 4%). 
-  - Top-grade Scholarships throughout all years. 
+  - Mentor: Prof. Xi Peng
+  - National Scholarship of China (Top 1%)
+  - Outstanding Graduate of Sichuan Province (Top 4%)
+  - Top-grade Scholarships throughout all years
 
 - *2017.09 - 2021.06*, Bachelar, Sichuan University, China.
   - Outstanding Graduate Nomination
