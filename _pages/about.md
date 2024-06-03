@@ -55,8 +55,8 @@ My research interests include 3D Vision and Multi-modality Learning for Autonomo
 
 Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</sup>**, Xiao Song, and Zhe Wang
 
-- Ranking **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any) in the 3D object detection.
-- Rubost aginst Camera Occlusion, LiDAR Failuer, and Unsynchronization.
+- Ranking **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any) in the 3D object detection
+- Robust against Camera Occlusion, LiDAR Failure, and Stuck
 </div>
 
 <div class='paper-box-image'><div>
