@@ -77,13 +77,15 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 
 †: Equal Contribution
 
-# 📖 Experiences & Educations 
+# 📖 Experiences 
 - *2024.07 - Now*, Senior Engineer, Baidu Inc., Perception Technolog Group.
   <!-- - Mentor: [Zhe Wang](https://wang-zhe.me/) -->
 
 - *2023.10 - 2024.03*, Research Intern, Sense Time, Intelligent Automative Group.
   - Mentor: [Zhe Wang](https://wang-zhe.me/)
+  - Ranking **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any)
 
+# 📖 Educations 
 - *2021.09 - 2024.06*, Master, Sichuan University, China.
   <!-- - Mentor: Prof. Xi Peng -->
   - National Scholarship of China (Top 1%)
