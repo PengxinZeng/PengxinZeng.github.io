@@ -16,14 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<!-- [Xi Peng](https://pengxi.me) -->
+I currently serve as a Senior Engineer specializing in Perception Technologies for Robotaxi at [Baidu](https://en.wikipedia.org/wiki/Baidu) Inc. Prior to this role, I embarked on a wanderful journey at [SenseTime](https://www.sensetime.com/cn)'s Intelligent Automotive Group, where I contributed to the development of [SparseLIF](https://arxiv.org/pdf/2403.07284), a high-performance fully-sparse 3D object detector, which ranks **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any), outperforming all state-of-the-art 3D detectors by a notable margin. Thanks to Director [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates!
 
-I am a final-year master’s student in the Colledge of Computer Science at [Sichuan University](https://www.scu.edu.cn), supervised by Prof. Xi Peng. I am also a research intern at SenseTime, Intelligent Automative Group. Before that, I received my bachelor’s degree in Software Engineering from Sichuan University in 2021.
-
-My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During the wonderful journey in SenseTime, I developed a high-performance fully-sparse 3D object detector, [SparseLIF](https://arxiv.org/pdf/2403.07284), which ranks **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any), outperforming all state-of-the-art 3D detectors by a notable margin. Thanks to Director [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates! 
+My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During my master's studies at the College of Computer Science, [Sichuan University](https://www.scu.edu.cn), I had the privilege of publishing research papers in esteemed journals and conferences, _i.e_, TPAMI and CVPR.
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🔥 Our paper [SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection](https://arxiv.org/pdf/2403.07284) is accepted by ECCV’ 2024. 
 - *2024.03*: &nbsp;🔥 Our 3D object detector SparseLIF ranks **1st** on the nuScenes leaderboard! 
 - *2023.11*: &nbsp;🔥 Our paper [Semantic Invariant Multi-view Clustering with Fully Incomplete Information](https://ieeexplore.ieee.org/document/10319403/media#media) is accepted by TPAMI’ 2023.  
 - *2023.10*: &nbsp;🎉 I am awarded the National Scholarship of China (Top 1%). 
@@ -51,7 +50,7 @@ My research interests include 3D Vision and Multi-modality Learning for Autonomo
 
 <div class='paper-box-text' markdown="1">
 
-[SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection](https://arxiv.org/pdf/2403.07284)
+[ECCV’ 2024] [SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection](https://arxiv.org/pdf/2403.07284)
 
 Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</sup>**, Xiao Song, and Zhe Wang
 
