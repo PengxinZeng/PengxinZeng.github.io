@@ -78,11 +78,14 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 †: Equal Contribution
 
 # 📖 Experiences & Educations 
-- *2023.10 - now*, Research Intern, Sense Time, Intelligent Automative Group.
+- *2024.07 - Now*, Senior Engineer, Baidu Inc., Perception Technolog Group.
+  <!-- - Director: [Zhe Wang](https://wang-zhe.me/) -->
+
+- *2023.10 - 2024.03*, Research Intern, Sense Time, Intelligent Automative Group.
   - Director: [Zhe Wang](https://wang-zhe.me/)
 
-- *2021.09 - now*, Master, Sichuan University, China.
-  - Mentor: Prof. Xi Peng
+- *2021.09 - 2024.06*, Master, Sichuan University, China.
+  <!-- - Mentor: Prof. Xi Peng -->
   - National Scholarship of China (Top 1%)
   - Outstanding Graduate of Sichuan Province (Top 4%)
   - Top-grade Scholarships throughout all years
