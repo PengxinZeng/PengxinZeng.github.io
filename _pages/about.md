@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I currently serve as a Senior Engineer specializing in Perception Technologies for Robotaxi at [Baidu](https://en.wikipedia.org/wiki/Baidu) Inc. Prior to this role, I embarked on a wanderful journey at [SenseTime](https://www.sensetime.com/cn)'s Intelligent Automotive Group, where I contributed to the development of [SparseLIF](https://arxiv.org/pdf/2403.07284), a high-performance fully-sparse 3D object detector, which ranks **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any), outperforming all state-of-the-art 3D detectors by a notable margin. Thanks to Director [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates!
+I currently serve as a Senior Engineer specializing in Perception Technologies for Robotaxi at [Baidu](https://en.wikipedia.org/wiki/Baidu) Inc. Prior to this role, I embarked on a wanderful journey at [SenseTime](https://www.sensetime.com/cn)'s Intelligent Automotive Group, where I contributed to the development of [SparseLIF](https://arxiv.org/pdf/2403.07284), a high-performance fully-sparse 3D object detector, which ranks **1st** on the [nuScenes leaderboard](https://www.nuscenes.org/object-detection?externalData=no&mapData=all&modalities=Any), outperforming all state-of-the-art 3D detectors by a notable margin. Thanks to Mentor [Zhe Wang](https://wang-zhe.me/), [Xiao Song](https://scholar.google.com.hk/citations?user=tXuvWDYAAAAJ&hl=zh-CN), and all other teammates!
 
-My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During my master's studies at the College of Computer Science, [Sichuan University](https://www.scu.edu.cn), I had the privilege of publishing research papers in esteemed journals and conferences, _i.e_, TPAMI and CVPR.
+My research interests include 3D Vision and Multi-modality Learning for Autonomous Driving. During my master's studies at the College of Computer Science, [Sichuan University](https://www.scu.edu.cn), I had the privilege of publishing papers in esteemed journals and conferences, _i.e_, TPAMI and CVPR.
 
 
 # 🔥 News
@@ -79,10 +79,10 @@ Hongcheng Zhang<sup>†</sup>, Liu Liang<sup>†</sup>, **Pengxin Zeng<sup>†</
 
 # 📖 Experiences & Educations 
 - *2024.07 - Now*, Senior Engineer, Baidu Inc., Perception Technolog Group.
-  <!-- - Director: [Zhe Wang](https://wang-zhe.me/) -->
+  <!-- - Mentor: [Zhe Wang](https://wang-zhe.me/) -->
 
 - *2023.10 - 2024.03*, Research Intern, Sense Time, Intelligent Automative Group.
-  - Director: [Zhe Wang](https://wang-zhe.me/)
+  - Mentor: [Zhe Wang](https://wang-zhe.me/)
 
 - *2021.09 - 2024.06*, Master, Sichuan University, China.
   <!-- - Mentor: Prof. Xi Peng -->
